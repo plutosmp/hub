@@ -1,0 +1,4 @@
+name: hub
+version: 1.0.0
+main: top.plutomc.hub.Hub
+authors: [ GerryYuu ]
